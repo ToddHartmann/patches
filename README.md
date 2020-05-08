@@ -12,7 +12,7 @@ Tactar
 *Tactar* is a sitar-like sound.  [It sounds like this.](https://raw.githubusercontent.com/ToddHartmann/patches/master/happen.mp3)
 <p style="text-align:left;"><img src="Tactar.png" width="477" height="69" alt="Assignable Controllers" title="Assignable Controllers"/></p>
 
-|.................................||
+|||
 |-|-|
 |**Uni Spread**|Wildness control|
 |**Osc Drift**|Adds randomness to osc pitches|
