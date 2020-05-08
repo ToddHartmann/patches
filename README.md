@@ -9,8 +9,8 @@ Please do not neglect your mod wheel!
 
 Tactar
 ------
-*Tactar* is a sitar-like sound.  [It sounds like this.](https://raw.githubusercontent.com/ToddHartmann/patches/master/happen.mp3)
-<p style="text-align:left;"><img src="Tactar.png" width="477" height="69" alt="Assignable Controllers" title="Assignable Controllers"/></p>
+**Tactar** is a sitar-like sound.  [It sounds like this.](https://raw.githubusercontent.com/ToddHartmann/patches/master/happen.mp3)
+<p style="text-align:left;"><img src="Tactar.png" width="477" height="69" alt="Tactar" title="Tactar"/></p>
 
 |||
 |-|-|
@@ -24,8 +24,16 @@ Tactar
 |**Esaeler**|Opposite of Release|
 |**Mod Wheel**|Saturation|
 
-Talienmachi.fxp
-Tarinet.fxp
+Talienmachi
+--
+I was outside and heard a thump.  Turning around, I saw what was obviously an alien machine from outer space; I took it inside.  It had exactly eight knobs.  I was able to model its sounds and tried to translate what the labels near the knobs seemed to imply.  The less said of it the better.  There is no explanation and no excuse.
+<p style="text-align:left;"><img src="Talien.png" width="477" height="69" alt="Talienmachi" title="Talienmachi"/></p>
+
+Tarinet
+--
+**Tarinet** takes the lead vocal in [Color My Surge](Tarinet.mp3)
+<p style="text-align:left;"><img src="Tarinet.png" width="477" height="69" alt="Tarinet" title="Tarinet"/></p>
+
 Tawlk.fxp
 Tawlkpyiana.fxp
 Tbestbrofbraz.fxp
