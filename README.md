@@ -1,8 +1,11 @@
+<head>
 <style>
 table, th, td {
   border: 1px solid black;
 }
 </style>
+</head>
+<body>
 
 toddhisattva's Surge patches
 ============================
@@ -10,14 +13,14 @@ toddhisattva's Surge patches
 Hook up your levers and knobs!
 ------------------------------
 
-All (but one) of these patches have all eight of Surge's <a href="https://surge-synthesizer.github.io/manual/#assignable-controllers">Assignable Controllers</a> hooked up.  If you have enough sliders and/or knobs, hook them up to Surge by right-clicking on an Assignable Controller and choosing "learn controller" then wiggling your control.
+All (but one) of these patches have all eight of Surge's <a href="https://surge-synthesizer.github.io/manual/#assignable-controllers">Assignable Controllers</a> hooked up.  If you have enough sliders and/or knobs, hook them up to Surge by right-clicking on each of the Assignable Controllers and choosing "learn controller" then wiggling your control:
 
 <p style="text-align:center;"><img src="AssignableControllers.png" width="375"  alt="Assignable Controllers" title="Assignable Controllers"/></p>
 Please do not neglect your mod wheel!
 
 Tactar
 ------
-*Tactar* is a sitar-like sound.  [It sounds like this.](happen.mp3)
+*Tactar* is a sitar-like sound.  [It sounds like this.](https://raw.githubusercontent.com/ToddHartmann/patches/master/happen.mp3)
 <p style="text-align:left;"><img src="Tactar.png" width="477" height="69" alt="Assignable Controllers" title="Assignable Controllers"/></p>
 <table>
     <tr><td><strong>Uni Spread</strong></td><td>Wildness control</td></tr>
@@ -54,3 +57,4 @@ Trawfm.fxp
 Tscreeminhel.fxp
 Tuub.fxp
 Tuzz.fxp
+</body>
