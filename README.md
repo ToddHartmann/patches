@@ -15,7 +15,7 @@ I like velocity sensitivity and I hope you do too.
 
 Tactar
 ------
-**Tactar** is a sitar-like sound.  [It sounds like this.](https://raw.githubusercontent.com/ToddHartmann/patches/master/happen.mp3)
+**Tactar** is a sitar-like sound.  [It sounds like this](happen.mp3).
 <p style="text-align:left;"><img src="Tactar.png" width="477" height="69" alt="Tactar" title="Tactar"/></p>
 
 |||
@@ -37,7 +37,7 @@ I was outside and heard a thump.  Turning around, I saw what was obviously an al
 
 Tarinet
 --
-**Tarinet** takes the lead vocal in [Color My Surge](https://raw.githubusercontent.com/ToddHartmann/patches/readme-reinit/Tarinet.mp3).
+**Tarinet** takes the lead vocal in [Color My Surge](Tarinet.mp3).
 Maybe it's more of a bass clarinet.
 <p style="text-align:left;"><img src="Tarinet.png" width="477" height="69" alt="Tarinet" title="Tarinet"/></p>
 
@@ -83,7 +83,7 @@ Each side had what the other lacked, a problem easily solved
 by [Surge's scenes!](https://surge-synthesizer.github.io/manual/#the-scene-concept)
 It is the "Best of Both Brass" because of its two sides.
 
-It handles all brass in [Surgerstition](https://github.com/ToddHartmann/patches/blob/readme-reinit/Superstition.mp3?raw=true)
+It handles all brass in [Surgerstition](Superstition.mp3).
 <p style="text-align:left;"><img src="BestBrass.png" width="477" height="69" alt="BestBrass" title="Best of Both Brass"/></p>
 
 |||
@@ -134,8 +134,41 @@ More [FM bell sweetness](Tefbelmo.mp3), the knobs can make it different, you got
 |**Rev Width**|Stereoness of reverb|
 |**Mod Wheel**|Leslie's Amplitude Modulation|
 
-Tefempino.fxp
-Temutu.fxp
+Tefempino
+---
+An FM piano does it for [Surgerstition](Superstition.mp3).
+<p style="text-align:left;"><img src="Tefempino.png" width="477" height="69" alt="Tefempino" title="Tefempino"/></p>
+
+|||
+|-|-|
+|**Osc Spread**|Left-Right pitch difference|
+|**Osc Drift**|Adds randomness to osc pitches|
+|**Horn Rate**|Leslie's Speed|
+|**Doppler**|Leslie's Depth|
+|**Metal**|Xylo to half Glocked|
+|**Bark**|Maybe like a bite|
+|**Bright**|Get sunglasses|
+|**Portamento**|Silliness|
+
+I am sorry, I overlooked the mod wheel.  It does nothing.  This will be rectified soon.
+
+Temutu
+---
+Kinda fonky.  In case you meet a [chameleon man](Temutu.mp3).
+<p style="text-align:left;"><img src="Temutu.png" width="477" height="69" alt="Temutu" title="Temutu"/></p>
+
+|||
+|-|-|
+|**Uni Spread**|Wildness control|
+|**Osc Drift**|Adds randomness to osc pitches|
+|**Waveshaper Driv**|Sine Distortion can get noisy|
+|**Release**|Release on both EGs|
+|**Saturate**|Enrich tone color|
+|**Formant**|Full to Thin|
+|**Resonance**|Wahnousity|
+|**Osc2 Level**|Octave down osc level|
+|**Mod Wheel**|Opens filter, squeegies out ears|
+
 Texedbaz.fxp
 Texedbel.fxp
 Thindo.fxp
