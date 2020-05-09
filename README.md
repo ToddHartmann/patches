@@ -26,14 +26,14 @@ Tactar
 
 Talienmachi
 --
-I was outside and heard a thump.  Turning around, I saw what was obviously an alien machine from outer space; I took it inside.  It had exactly eight knobs.  I was able to model its sounds and tried to translate what the labels near the knobs seemed to imply.  Then it evaporated, leaving a slight vanilla scent.
+I was outside and heard a thump.  Turning around, I saw what was obviously an alien machine from outer space; I took it inside.  It had exactly eight knobs.  I was able to model its sounds and tried to translate what the labels near the knobs seemed to imply.  Then it evaporated, leaving a used motor oil scent.
 <p style="text-align:left;"><img src="Talien.png" width="477" height="69" alt="Talienmachi" title="Talienmachi"/></p>
 
 Tarinet
 --
-**Tarinet** takes the lead vocal in [Color My Surge](https://raw.githubusercontent.com/ToddHartmann/patches/readme-reinit/Tarinet.mp3)
+**Tarinet** takes the lead vocal in [Color My Surge](https://raw.githubusercontent.com/ToddHartmann/patches/readme-reinit/Tarinet.mp3).
+Maybe it's more of a bass clarinet.
 <p style="text-align:left;"><img src="Tarinet.png" width="477" height="69" alt="Tarinet" title="Tarinet"/></p>
-
 |||
 |-|-|
 |**Osc Spread**|Left-Right pitch difference|
@@ -47,9 +47,34 @@ Tarinet
 |**Mod Wheel**|Mellow to Strident to Thin|
 
 
-Tawlk.fxp
-Tawlkpyiana.fxp
-Tbestbrofbraz.fxp
+Tawlk
+---
+**Tawlk** If a bell tried to talk...
+<p style="text-align:left;"><img src="Tawlk.png" width="477" height="69" alt="Tawlk" title="Tawlk"/></p>
+|||
+|-|-|
+|**Buzz**|Kazooness|
+|**Mojo**|Wahnousity|
+|**Horn Rate**|Leslie Sim Speed|
+|**Doppler**|Leslie Sim Depth|
+|**Rev Mix**|How much reverb|
+|**Rev Width**|Stereoness of reverb|
+|**Vib Rate**|Vibrato Rate|
+|**Vib Magnitude**|Vibrato Magnitude|
+|**Mod Wheel**|Mellow to Strident to Thin|
+
+Tawlkpyiana
+---
+**Tawlkpyiana** is almost exactly the same as **Tawlk**,
+but the bell is brighter because it skips F1.
+
+Tbestbrofbraz
+---
+I approached brass from the FM side.  I approached brass from the subtractive side.
+I noticed that they each had what the other lacked, a problem easily solved
+by [Surge's scenes!](https://surge-synthesizer.github.io/manual/#the-scene-concept)
+It is the "Best of Both Brass" because of its two sides.
+
 Tchime.fxp
 Tefbelmo.fxp
 Tefempino.fxp
