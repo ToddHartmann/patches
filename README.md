@@ -218,10 +218,45 @@ A very [**sync**ere sound](Thindo.mp3), achieved with wavetable oscillators.
 
 Tokoto
 ---
-A koto.
+A koto that can be a lot of other things, some of them good.  [It makes this sound](Tokoto.mp3).
+<p style="text-align:left;"><img src="Tokoto.png" width="477" height="69" alt="Tokoto" title="Tokoto"/></p>
 
-Toneoscstryng.fxp
-Torganix.fxp
+|||
+|-|-|
+|**Uni Spread**|Wildness control|
+|**Osc Drift**|Adds randomness to osc pitches|
+|**Twang**|That short little mash-down koto players do|
+|**Portamento**|Longer glissandos here|
+|**Thicc**|From thin to thicc|
+|**Buzz**|Exactly what you expect|
+|**Vib Rate**|Vibrato Rate|
+|**Sustain**|For Amplitude EG|
+|**Mod Wheel**|Vibrato Magnitude|
+
+Toneoscstryng
+---
+A one-oscillator [string sound](Toneoscstryng.mp3).
+<p style="text-align:left;"><img src="Toneoscstryng.png" width="477" height="69" alt="Toneoscstryng" title="Toneoscstryng"/></p>
+
+|||
+|-|-|
+|**Sync**|Gateway to Other Dimension|
+|**Osc Drift**|Adds randomness to osc pitches|
+|**Softer**|Enmellowation|
+|**Resonance**|Fiddle wooditude|
+|**Vib Rate**|Vibrato Rate|
+|**Vib Magnitude**|Vibrato Magnitude|
+|**Sustain**|For both EGs|
+|**Portamento**|Little thing stuffed in olives|
+|**Mod Wheel**|Uni Spread Wildness control|
+
+Torganix
+---
+The first of three organ studies.  The sines in their wavetables are simply 1:2:3.
+They are unadorned by effects.
+
+**Torganix**
+
 Torganiy.fxp
 Torganiz.fxp
 Trawfm.fxp
