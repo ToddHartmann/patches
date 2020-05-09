@@ -73,9 +73,11 @@ but the bell is brighter because it skips F1.
 Tbestbrofbraz
 ---
 I approached brass from the FM side.  I approached brass from the subtractive side.
-I noticed that they each had what the other lacked, a problem easily solved
+They each had what the other lacked, a problem easily solved
 by [Surge's scenes!](https://surge-synthesizer.github.io/manual/#the-scene-concept)
 It is the "Best of Both Brass" because of its two sides.
+
+It handles all brass in [Surgerstition](Superstition.mp3)
 
 Tchime.fxp
 Tefbelmo.fxp
