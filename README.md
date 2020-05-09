@@ -257,7 +257,10 @@ Torganiy
 Torganiz
 ---
 Three organ studies.  This is [**Torganiz**](Torganiz.mp3).
+<p style="text-align:left;">
 [![Bach](http://img.youtube.com/vi/kuTL-yZnugw/0.jpg)](http://www.youtube.com/watch?v=kuTL-yZnugw "Little Fugue for Church Organ")
+</p>
+
 They differ only in the octave assignments of WT Oscs 2 & 3.
 **Torganix** has the Oscs in 1:2:3 tuning.
 **Torganiy** moves Oscs 2 & 3 up one octave, for 1:4:6 kinda-pipe organy sound.
