@@ -34,6 +34,7 @@ Tarinet
 **Tarinet** takes the lead vocal in [Color My Surge](https://raw.githubusercontent.com/ToddHartmann/patches/readme-reinit/Tarinet.mp3).
 Maybe it's more of a bass clarinet.
 <p style="text-align:left;"><img src="Tarinet.png" width="477" height="69" alt="Tarinet" title="Tarinet"/></p>
+
 |||
 |-|-|
 |**Osc Spread**|Left-Right pitch difference|
