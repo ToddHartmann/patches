@@ -73,13 +73,43 @@ but the bell is brighter because it skips F1.
 Tbestbrofbraz
 ---
 I approached brass from the FM side.  I approached brass from the subtractive side.
-They each had what the other lacked, a problem easily solved
+Each side had what the other lacked, a problem easily solved
 by [Surge's scenes!](https://surge-synthesizer.github.io/manual/#the-scene-concept)
 It is the "Best of Both Brass" because of its two sides.
 
-It handles all brass in [Surgerstition](Superstition.mp3)
+It handles all brass in [Surgerstition](https://github.com/ToddHartmann/patches/blob/readme-reinit/Superstition.mp3?raw=true)
+<p style="text-align:left;"><img src="BestBrass.png" width="477" height="69" alt="BestBrass" title="Best of Both Brass"/></p>
 
-Tchime.fxp
+|||
+|-|-|
+|**Osc Spread**|Left-Right pitch difference|
+|**Osc Drift**|Adds randomness to osc pitches|
+|**Horn Rate**|Leslie Sim Speed|
+|**Doppler**|Leslie Sim Depth|
+|**Splat**|Severity of Attack|
+|**Mojo**|Resonance for Fun|
+|**Delay Mix**|How much delayed sound|
+|**Delay Width**|Stereoness of delayed sound|
+|**Mod Wheel**|Mellow to Strident|
+
+Tchime
+---
+Reminiscent of an FM doorbell chime, but useful for much else besides!
+<p style="text-align:left;"><img src="Tchime.png" width="477" height="69" alt="Tchime" title="Tchime"/></p>
+
+|||
+|-|-|
+|**Osc Spread**|Left-Right pitch difference|
+|**Osc Drift**|Adds randomness to osc pitches|
+|**Brass**|Adds some metallic harmonics|
+|**Zap**|Opens filter, squeegies out ears|
+|**Buzz**|Kazooness|
+|**Wobble**|Wobulated high freqs|
+|**Top**|Amount of up-octave osc|
+|**Vib Rate**|Vibrato Rate|
+|**Mod Wheel**|Vibrato Magnitude|
+
+
 Tefbelmo.fxp
 Tefempino.fxp
 Temutu.fxp
