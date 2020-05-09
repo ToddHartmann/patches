@@ -256,10 +256,9 @@ Torganiy
 ---
 Torganiz
 ---
-Three organ studies.  This is [**Torganiz**](Torganiz.mp3).
-<p style="text-align:left;">
-[![Bach](http://img.youtube.com/vi/kuTL-yZnugw/0.jpg)](http://www.youtube.com/watch?v=kuTL-yZnugw "Little Fugue for Church Organ")
-</p>
+Three organ studies.  This is [**Torganiz**](Torganiz.mp3):
+
+<p style="text-align:left;"><a href="http://www.youtube.com/watch?v=kuTL-yZnugw" title="Little Fugue for Church Organ"><img src="http://img.youtube.com/vi/kuTL-yZnugw/0.jpg" alt="Bach" title="" width="96" height="54" /></a></p>
 
 They differ only in the octave assignments of WT Oscs 2 & 3.
 **Torganix** has the Oscs in 1:2:3 tuning.
