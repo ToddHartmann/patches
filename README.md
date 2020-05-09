@@ -26,13 +26,26 @@ Tactar
 
 Talienmachi
 --
-I was outside and heard a thump.  Turning around, I saw what was obviously an alien machine from outer space; I took it inside.  It had exactly eight knobs.  I was able to model its sounds and tried to translate what the labels near the knobs seemed to imply.  The less said of it the better.  There is no explanation and no excuse.
+I was outside and heard a thump.  Turning around, I saw what was obviously an alien machine from outer space; I took it inside.  It had exactly eight knobs.  I was able to model its sounds and tried to translate what the labels near the knobs seemed to imply.  Then it evaporated, leaving a slight vanilla scent.
 <p style="text-align:left;"><img src="Talien.png" width="477" height="69" alt="Talienmachi" title="Talienmachi"/></p>
 
 Tarinet
 --
-**Tarinet** takes the lead vocal in [Color My Surge](Tarinet.mp3)
+**Tarinet** takes the lead vocal in [Color My Surge](https://raw.githubusercontent.com/ToddHartmann/patches/readme-reinit/Tarinet.mp3)
 <p style="text-align:left;"><img src="Tarinet.png" width="477" height="69" alt="Tarinet" title="Tarinet"/></p>
+
+|||
+|-|-|
+|**Osc Spread**|Left-Right pitch difference|
+|**Osc Drift**|Adds randomness to osc pitches|
+|**Vib Rate**|Vibrato Rate|
+|**Vib Magnitude**|Vibrato Magnitude|
+|**Delay Mix**|How much delayed sound|
+|**Delay Width**|Stereoness of delayed sound|
+|**Buzz**|Exactly what you expect|
+|**Mojo**|Resonance (maybe best as comedy)|
+|**Mod Wheel**|Mellow to Strident to Thin|
+
 
 Tawlk.fxp
 Tawlkpyiana.fxp
