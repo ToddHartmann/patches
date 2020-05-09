@@ -240,7 +240,7 @@ A one-oscillator [string sound](Toneoscstryng.mp3).
 
 |||
 |-|-|
-|**Sync**|Gateway to Other Dimension|
+|**Sync**|Gateway to Other Dimensions|
 |**Osc Drift**|Adds randomness to osc pitches|
 |**Softer**|Enmellowation|
 |**Resonance**|Fiddle wooditude|
@@ -252,13 +252,30 @@ A one-oscillator [string sound](Toneoscstryng.mp3).
 
 Torganix
 ---
-The first of three organ studies.  The sines in their wavetables are simply 1:2:3.
-They are unadorned by effects.
+Torganiy
+---
+Torganiz
+---
+Three organ studies.  This is [**Torganiz**](Torganiz.mp3).
+[![Bach](http://img.youtube.com/vi/kuTL-yZnugw/0.jpg)](http://www.youtube.com/watch?v=kuTL-yZnugw "Little Fugue for Church Organ")
+They differ only in the octave assignments of WT Oscs 2 & 3.
+**Torganix** has the Oscs in 1:2:3 tuning.
+**Torganiy** moves Oscs 2 & 3 up one octave, for 1:4:6 kinda-pipe organy sound.
+**Torganiz** moves Oscs 2 & 3 up two octaves, for 1:8:12 epic pipey sound.
+<p style="text-align:left;"><img src="Torganix.png" width="477" height="69" alt="Torganix" title="Torganix"/></p>
 
-**Torganix**
+|||
+|-|-|
+|**Uni Spread**|Wildness control|
+|**Osc Drift**|Adds randomness to osc pitches|
+|**Horn Rate**|Leslie's Speed|
+|**Doppler**|Leslie's Depth|
+|**Formant**|Adds epicness until it doesn't|
+|**Drive**|For Winwoods|
+|**Osc2 Damp**|Scoop out the middle|
+|**Osc3 Damp**|Take some off the top|
+|**Mod Wheel**|Mighty Morphin|
 
-Torganiy.fxp
-Torganiz.fxp
 Trawfm.fxp
 Tscreeminhel.fxp
 Tuub.fxp
