@@ -1,5 +1,8 @@
 toddhisattva's Surge patches
 ============================
+
+[Here they are in a zip](patches.zip).
+
 Hook up your levers and knobs!
 ------------------------------
 All (but one) of these patches have all eight of Surge's <a href="https://surge-synthesizer.github.io/manual/#assignable-controllers">Assignable Controllers</a> hooked up.  If you have enough sliders and/or knobs, hook them up to Surge by right-clicking on each of the Assignable Controllers and choosing "learn controller" then wiggling your control:
@@ -169,10 +172,54 @@ Kinda fonky.  In case you meet a [chameleon man](Temutu.mp3).
 |**Osc2 Level**|Octave down osc level|
 |**Mod Wheel**|Opens filter, squeegies out ears|
 
-Texedbaz.fxp
-Texedbel.fxp
-Thindo.fxp
-Tokoto.fxp
+Texedbaz
+---
+If someone leaves the band and you must [cover the part](Texedbaz.mp3).
+It's a reconstruction of a patch for [Dexed](https://asb2m10.github.io/dexed/) and can be twisted to taste (or lack thereof).
+<p style="text-align:left;"><img src="Texedbaz.png" width="477" height="69" alt="Texedbaz" title="Texedbaz"/></p>
+
+|||
+|-|-|
+|**M1 Amount**|Osc1 Thump to Rubber Band Man|
+|**M2 Amount**|Osc1 Same but a little thinner|
+|**M1 Amount**|Osc2 Brightness|
+|**M2 Amount**|Osc2 Presence|
+|**Waveshaper Driv**|Perks it right up|
+|**Feedback**|Takin' Care of Buzziness|
+|**Mix**|Stereo Delay Mix|
+|**Crossfeed**|Stereo Delay Crossfeed|
+|**Mod Wheel**|Stridency|
+
+Texedbel
+---
+Another [Dexed](https://asb2m10.github.io/dexed/) adaptation.  [Much more metallic](Texedbel.mp3) than **Tefbelmo**, maybe more suited to gamelan.  Ever notice, a reference to gamelan always makes you seem musically sophisticated?  You don't even need to know what, or who, it is!
+<p style="text-align:left;"><img src="Texedbel.png" width="477" height="69" alt="Texedbel" title="Texedbel"/></p>
+
+The knobs are hooked up to the Amplitude and Filter envelope generators.
+In this FM patch, the Filter EG drives the FM modulator amounts (which changes timbre).
+Set long Amplitude Attack for glass armonica sounds.  You know what to do.
+
+Thindo
+---
+A very [**sync**ere sound](Thindo.mp3), achieved with wavetable oscillators.
+<p style="text-align:left;"><img src="Thindo.png" width="477" height="69" alt="Thindo" title="Thindo"/></p>
+
+|||
+|-|-|
+|**Uni Spread**|Wildness control|
+|**Osc Drift**|Adds randomness to osc pitches|
+|**Horn Rate**|Leslie's Speed|
+|**Doppler**|Leslie's Depth|
+|**Portamento**|Sync likes Port|
+|**Sub Level**|Meat|
+|**Rate**|Vibrato Rate|
+|**Vib Magnitude**|Vibrato Magnitude|
+|**Mod Wheel**|Has its own LFO for its own vibrato|
+
+Tokoto
+---
+A koto.
+
 Toneoscstryng.fxp
 Torganix.fxp
 Torganiy.fxp
