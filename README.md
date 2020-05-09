@@ -5,7 +5,13 @@ Hook up your levers and knobs!
 All (but one) of these patches have all eight of Surge's <a href="https://surge-synthesizer.github.io/manual/#assignable-controllers">Assignable Controllers</a> hooked up.  If you have enough sliders and/or knobs, hook them up to Surge by right-clicking on each of the Assignable Controllers and choosing "learn controller" then wiggling your control:
 
 <p style="text-align:center;"><img src="AssignableControllers.png" width="375"  alt="Assignable Controllers" title="Assignable Controllers"/></p>
+
+If you do not have a MIDI controller you can use your mouse to mousenipulate the Assignable Controllers.
+
 Please do not neglect your mod wheel!
+<p style="text-align:center;"><img src="ModWheel.png" width="186" height="42"  alt="ModWheel" title="Modulation Wheeleration"/></p>
+
+I like velocity sensitivity and I hope you do too.
 
 Tactar
 ------
@@ -57,8 +63,8 @@ Tawlk
 |-|-|
 |**Buzz**|Kazooness|
 |**Mojo**|Wahnousity|
-|**Horn Rate**|Leslie Sim Speed|
-|**Doppler**|Leslie Sim Depth|
+|**Horn Rate**|Leslie's Speed|
+|**Doppler**|Leslie's Depth|
 |**Rev Mix**|How much reverb|
 |**Rev Width**|Stereoness of reverb|
 |**Vib Rate**|Vibrato Rate|
@@ -84,8 +90,8 @@ It handles all brass in [Surgerstition](https://github.com/ToddHartmann/patches/
 |-|-|
 |**Osc Spread**|Left-Right pitch difference|
 |**Osc Drift**|Adds randomness to osc pitches|
-|**Horn Rate**|Leslie Sim Speed|
-|**Doppler**|Leslie Sim Depth|
+|**Horn Rate**|Leslie's Speed|
+|**Doppler**|Leslie's Depth|
 |**Splat**|Severity of Attack|
 |**Mojo**|Resonance for Fun|
 |**Delay Mix**|How much delayed sound|
@@ -94,7 +100,7 @@ It handles all brass in [Surgerstition](https://github.com/ToddHartmann/patches/
 
 Tchime
 ---
-Reminiscent of an FM doorbell chime, but useful for much else besides!
+Reminiscent of an [FM doorbell chime](Tchime.mp3), but useful for much else besides!
 <p style="text-align:left;"><img src="Tchime.png" width="477" height="69" alt="Tchime" title="Tchime"/></p>
 
 |||
@@ -110,7 +116,24 @@ Reminiscent of an FM doorbell chime, but useful for much else besides!
 |**Mod Wheel**|Vibrato Magnitude|
 
 
-Tefbelmo.fxp
+Tefbelmo
+---
+More [FM bell sweetness](Tefbelmo.mp3), the knobs can make it different, you gotta twist 'em!
+
+<p style="text-align:left;"><img src="Tefbelmo.png" width="477" height="69" alt="Tefbelmo" title="Tefbelmo"/></p>
+
+|||
+|-|-|
+|**Osc Spread**|Left-Right pitch difference|
+|**Osc Drift**|Adds randomness to osc pitches|
+|**Horn Rate**|Leslie's Speed|
+|**Doppler**|Leslie's Depth|
+|**Top**|Amount of up-octave osc|
+|**Feedback**|Takin' Care of Buzziness|
+|**Rev Mix**|How much reverb|
+|**Rev Width**|Stereoness of reverb|
+|**Mod Wheel**|Leslie's Amplitude Modulation|
+
 Tefempino.fxp
 Temutu.fxp
 Texedbaz.fxp
