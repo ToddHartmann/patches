@@ -278,7 +278,62 @@ They differ only in the octave assignments of WT Oscs 2 & 3.
 |**Osc3 Damp**|Take some off the top|
 |**Mod Wheel**|Mighty Morphin|
 
-Trawfm.fxp
-Tscreeminhel.fxp
-Tuub.fxp
-Tuzz.fxp
+Trawfm
+---
+An FM3 oscillator laid bare to your fingertips.  Explore the worlds of FM synthesis and save off your interesting creations.  Enjoy!
+<p style="text-align:left;"><img src="Trawfm.png" width="477" height="69" alt="Trawfm" title="Trawfm"/></p>
+
+|||
+|-|-|
+|**M1 Ratio**|Choose a ratio|
+|**M1 Amount**|Crank it up|
+|**M2 Ratio**|Choose a ratio|
+|**M2 Amount**|Crank it up|
+|**Attack**|Amplitude EG|
+|**Decay**|Amplitude EG|
+|**Sustain**|Amplitude EG|
+|**Release**|Amplitude EG|
+|**Mod Wheel**|Vibrato speed & depth|
+
+Tscreeminhel
+---
+Scream in hell.  A self-documenting patch: just this one bad sound try mod wheel.
+<p style="text-align:left;"><img src="Tscreeminhel.png" width="477" height="69" alt="Tscreeminhel" title="Tscreeminhel"/></p>
+
+|||
+|-|-|
+|**Mod Wheel**|Opens filter, squeegies out ears|
+
+Tuub
+---
+Like, tubular, man.  [Bliss out](Tuub.mp3) and mind the volume.
+<p style="text-align:left;"><img src="Tuub.png" width="477" height="69" alt="Tuub" title="Tuub"/></p>
+
+|||
+|-|-|
+|**Uni Spread**|Wildness control|
+|**Osc Drift**|Adds randomness to osc pitches|
+|**Waveshape Drive**|Stridency|
+|**Portamento**|For classic square leads|
+|**Sync**|Gateway to Other Dimensions|
+|**Sub Level**|Girth|
+|**Brightness**|Shiny|
+|**Vib Rate**|Vibrato Rate|
+|**Mod Wheel**|Vibrato Magnitude|
+
+Tuzz
+---
+An [agressive buzz sound](Tuzz.mp3).
+<p style="text-align:left;"><img src="Tuzz.png" width="477" height="69" alt="Tuzz" title="Tuzz"/></p>
+
+|||
+|-|-|
+|**Uni Spread**|Wildness control|
+|**Osc Drift**|Adds randomness to osc pitches|
+|**Horn Rate**|Leslie's Speed|
+|**Doppler**|Leslie's Depth|
+|**Aggro**|Agression / Aggrevation|
+|**Cutoff**|Opens filter, squeegies out ears|
+|**Vib Rate**|Vibrato Rate|
+|**Portamento**|Gliss Bliss|
+|**Mod Wheel**|Vibrato Magnitude|
