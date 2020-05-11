@@ -18,7 +18,7 @@ I like velocity sensitivity and I hope you do too.
 
 Tactar
 ------
-**Tactar** is a sitar-like sound.  [It sounds like this](happen.mp3).
+**Tactar** is a sitar-like sound.  [It sounds like this](sound/happen.mp3).
 <p style="text-align:left;"><img src="art/Tactar.png" width="477" height="69" alt="Tactar" title="Tactar"/></p>
 
 |||
@@ -40,7 +40,7 @@ I was outside and heard a thump.  Turning around, I saw what was obviously an al
 
 Tarinet
 --
-**Tarinet** takes the lead vocal in [Color My Surge](Tarinet.mp3).
+**Tarinet** takes the lead vocal in [Color My Surge](sound/Tarinet.mp3).
 Maybe it's more of a bass clarinet.
 <p style="text-align:left;"><img src="art/Tarinet.png" width="477" height="69" alt="Tarinet" title="Tarinet"/></p>
 
@@ -86,7 +86,7 @@ Each side had what the other lacked, a problem easily solved
 by [Surge's scenes!](https://surge-synthesizer.github.io/manual/#the-scene-concept)
 It is the "Best of Both Brass" because of its two sides.
 
-It handles all brass in [Surgerstition](Superstition.mp3).
+It handles all brass, and Moog bass, in [Surgerstition](sound/Superstition.mp3).
 <p style="text-align:left;"><img src="art/BestBrass.png" width="477" height="69" alt="BestBrass" title="Best of Both Brass"/></p>
 
 |||
@@ -103,7 +103,7 @@ It handles all brass in [Surgerstition](Superstition.mp3).
 
 Tchime
 ---
-Reminiscent of an [FM doorbell chime](Tchime.mp3), but useful for much else besides!
+Reminiscent of an [FM doorbell chime](sound/Tchime.mp3), but useful for much else besides!
 <p style="text-align:left;"><img src="art/Tchime.png" width="477" height="69" alt="Tchime" title="Tchime"/></p>
 
 |||
@@ -121,7 +121,7 @@ Reminiscent of an [FM doorbell chime](Tchime.mp3), but useful for much else besi
 
 Tefbelmo
 ---
-More [FM bell sweetness](Tefbelmo.mp3), the knobs can make it different, you gotta twist 'em!
+More [FM bell sweetness](sound/Tefbelmo.mp3), the knobs can make it different, you gotta twist 'em!
 
 <p style="text-align:left;"><img src="art/Tefbelmo.png" width="477" height="69" alt="Tefbelmo" title="Tefbelmo"/></p>
 
@@ -139,7 +139,7 @@ More [FM bell sweetness](Tefbelmo.mp3), the knobs can make it different, you got
 
 Tefempino
 ---
-An FM piano does it for [Surgerstition](Superstition.mp3).
+An FM piano does it for [Surgerstition](sound/Superstition.mp3).
 <p style="text-align:left;"><img src="art/Tefempino.png" width="477" height="69" alt="Tefempino" title="Tefempino"/></p>
 
 |||
@@ -157,7 +157,7 @@ I am sorry, I overlooked the mod wheel.  It does nothing.  This will be rectifie
 
 Temutu
 ---
-Kinda fonky.  In case you meet a [chameleon man](Temutu.mp3).
+Kinda fonky.  In case you meet a [chameleon](sound/Temutu.mp3).
 <p style="text-align:left;"><img src="art/Temutu.png" width="477" height="69" alt="Temutu" title="Temutu"/></p>
 
 |||
@@ -174,7 +174,7 @@ Kinda fonky.  In case you meet a [chameleon man](Temutu.mp3).
 
 Texedbaz
 ---
-If someone leaves the band and you must [cover the part](Texedbaz.mp3).
+If someone leaves the band and you must [cover the part](sound/Texedbaz.mp3).
 It's a reconstruction of a patch for [Dexed](https://asb2m10.github.io/dexed/) and can be twisted to taste (or lack thereof).
 <p style="text-align:left;"><img src="art/Texedbaz.png" width="477" height="69" alt="Texedbaz" title="Texedbaz"/></p>
 
@@ -192,7 +192,7 @@ It's a reconstruction of a patch for [Dexed](https://asb2m10.github.io/dexed/) a
 
 Texedbel
 ---
-Another [Dexed](https://asb2m10.github.io/dexed/) adaptation.  [Much more metallic](Texedbel.mp3) than **Tefbelmo**, maybe more suited to gamelan.  Ever notice, a reference to gamelan always makes you seem musically sophisticated?  You don't even need to know what, or who, it is!
+Another [Dexed](https://asb2m10.github.io/dexed/) adaptation.  [Much more metallic](sound/Texedbel.mp3) than **Tefbelmo**, maybe more suited to gamelan.  Ever notice, a reference to gamelan always makes you seem musically sophisticated?  You don't even need to know what, or who, it is!
 <p style="text-align:left;"><img src="art/Texedbel.png" width="477" height="69" alt="Texedbel" title="Texedbel"/></p>
 
 The knobs are hooked up to the Amplitude and Filter envelope generators.
@@ -201,7 +201,7 @@ Set long Amplitude Attack for glass armonica sounds.  You know what to do.
 
 Thindo
 ---
-A very [**sync**ere sound](Thindo.mp3), achieved with wavetable oscillators.
+A very [**sync**ere sound](sound/Thindo.mp3), achieved with wavetable oscillators.
 <p style="text-align:left;"><img src="art/Thindo.png" width="477" height="69" alt="Thindo" title="Thindo"/></p>
 
 |||
@@ -218,7 +218,7 @@ A very [**sync**ere sound](Thindo.mp3), achieved with wavetable oscillators.
 
 Tokoto
 ---
-A koto that can be a lot of other things, some of them good.  [It makes this sound](Tokoto.mp3).
+A koto that can be a lot of other things, some of them good.  [It makes this sound](sound/Tokoto.mp3).
 <p style="text-align:left;"><img src="art/Tokoto.png" width="477" height="69" alt="Tokoto" title="Tokoto"/></p>
 
 |||
@@ -235,7 +235,7 @@ A koto that can be a lot of other things, some of them good.  [It makes this sou
 
 Toneoscstryng
 ---
-A one-oscillator [string sound](Toneoscstryng.mp3).
+A one-oscillator [string sound](sound/Toneoscstryng.mp3).
 <p style="text-align:left;"><img src="art/Toneoscstryng.png" width="477" height="69" alt="Toneoscstryng" title="Toneoscstryng"/></p>
 
 |||
@@ -256,7 +256,7 @@ Torganiy
 ---
 Torganiz
 ---
-Three organ studies.  This is [**Torganiz**](Torganiz.mp3):
+Three organ studies.  This is [**Torganiz**](sound/Torganiz.mp3):
 
 <p style="text-align:left;"><a href="http://www.youtube.com/watch?v=kuTL-yZnugw" title="Little Fugue for Church Organ"><img src="art/http://img.youtube.com/vi/kuTL-yZnugw/0.jpg" alt="Bach" title="" width="96" height="54" /></a></p>
 
@@ -306,7 +306,7 @@ Scream in hell.  A self-documenting patch: just this one bad sound try mod wheel
 
 Tuub
 ---
-Like, tubular, man.  [Bliss out](Tuub.mp3) and mind the volume.
+Like, tubular, man.  [Bliss out](sound/Tuub.mp3) and mind the volume.
 <p style="text-align:left;"><img src="art/Tuub.png" width="477" height="69" alt="Tuub" title="Tuub"/></p>
 
 |||
@@ -323,7 +323,7 @@ Like, tubular, man.  [Bliss out](Tuub.mp3) and mind the volume.
 
 Tuzz
 ---
-An [agressive buzz sound](Tuzz.mp3).
+An [agressive buzz sound](sound/Tuzz.mp3).
 <p style="text-align:left;"><img src="art/Tuzz.png" width="477" height="69" alt="Tuzz" title="Tuzz"/></p>
 
 |||
