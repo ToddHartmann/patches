@@ -36,7 +36,7 @@ Tactar
 Talienmachi
 --
 [**Talienmachi**](fxp/Talienmachi.fxp?raw=true) -
-I was outside and heard a thump.  Turning around, I saw what was obviously an alien machine from outer space.  I took it inside.  It had exactly eight knobs.  I was able to model its sounds and tried to translate what the labels near the knobs seemed to imply.  Then it evaporated, leaving a used motor oil scent.
+I was outside and heard a thump, and a noise that [**sounded like this**](sound/Talienmachi.mp3?raw=true).  Turning around, I saw what was obviously an alien machine from outer space.  I took it inside.  It had exactly eight knobs.  I was able to model its sounds and tried to translate what the labels near the knobs seemed to imply.  Then it evaporated, leaving a used motor oil scent.
 <p style="text-align:left;"><img src="art/Talien.png" width="477" height="69" alt="Talienmachi" title="Talienmachi"/></p>
 
 Tarinet
@@ -297,7 +297,7 @@ Trawfm
 
 Tscreeminhel
 ---
-[**Tscreeminhel**](fxp/Tscreeminhel.fxp?raw=true) is a scream in hell.  A self-documenting patch: just this one bad sound try mod wheel.
+[**Tscreeminhel**](fxp/Tscreeminhel.fxp?raw=true) - [**Sounds like a scream in hell**](sound/Tscreeminhel.mp3?raw=true).  A self-documenting patch: just this one bad sound try mod wheel.
 <p style="text-align:left;"><img src="art/Tscreeminhel.png" width="477" height="69" alt="Tscreeminhel" title="Tscreeminhel"/></p>
 
 |||
