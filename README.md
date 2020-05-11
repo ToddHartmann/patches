@@ -5,7 +5,7 @@ toddhisattva's Surge patches
 
 Hook up your levers and knobs!
 ------------------------------
-All (but one) of these patches have all eight of Surge's <a href="https://surge-synthesizer.github.io/manual/#assignable-controllers">Assignable Controllers</a> hooked up.  If you have enough sliders and/or knobs, hook them up to Surge by right-clicking on each of the Assignable Controllers and choosing "learn controller" then wiggling your control:
+All (but one) of these patches have **all eight** of Surge's <a href="https://surge-synthesizer.github.io/manual/#assignable-controllers">Assignable Controllers</a> hooked up.  If you have enough sliders and/or knobs, hook them up to Surge by right-clicking on each of the Assignable Controllers and choosing "learn controller" then wiggling your control:
 
 <p style="text-align:center;"><img src="art/AssignableControllers.png" width="375"  alt="Assignable Controllers" title="Assignable Controllers"/></p>
 
@@ -36,7 +36,7 @@ Tactar
 Talienmachi
 --
 [**Talienmachi**](fxp/Talienmachi.fxp?raw=true) -
-I was outside and heard a thump.  Turning around, I saw what was obviously an alien machine from outer space; I took it inside.  It had exactly eight knobs.  I was able to model its sounds and tried to translate what the labels near the knobs seemed to imply.  Then it evaporated, leaving a used motor oil scent.
+I was outside and heard a thump.  Turning around, I saw what was obviously an alien machine from outer space.  I took it inside.  It had exactly eight knobs.  I was able to model its sounds and tried to translate what the labels near the knobs seemed to imply.  Then it evaporated, leaving a used motor oil scent.
 <p style="text-align:left;"><img src="art/Talien.png" width="477" height="69" alt="Talienmachi" title="Talienmachi"/></p>
 
 Tarinet
@@ -104,7 +104,7 @@ It is the "Best of Both Brass" because of its two sides.
 
 Tchime
 ---
-[**Tchime**](fxp/Tchime.fxp?raw=true) - [**Sounds like an FM doorbell chime**](sound/Tchime.mp3?raw=true), but useful for much else besides!
+[**Tchime**](fxp/Tchime.fxp?raw=true) - [**Sounds like an FM doorbell chime**](sound/Tchime.mp3?raw=true), but useful for much else besides.
 <p style="text-align:left;"><img src="art/Tchime.png" width="477" height="69" alt="Tchime" title="Tchime"/></p>
 
 |||
@@ -122,7 +122,7 @@ Tchime
 
 Tefbelmo
 ---
-[**Tefbelmo**](fxp/Tefbelmo.fxp?raw=true) - [**Sounds like FM bell sweetness**](sound/Tefbelmo.mp3?raw=true), the knobs can make it different, you gotta twist 'em!
+[**Tefbelmo**](fxp/Tefbelmo.fxp?raw=true) - [**Sounds like FM bell sweetness**](sound/Tefbelmo.mp3?raw=true), the knobs can make it different, you gotta twist 'em.
 
 <p style="text-align:left;"><img src="art/Tefbelmo.png" width="477" height="69" alt="Tefbelmo" title="Tefbelmo"/></p>
 
