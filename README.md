@@ -7,19 +7,19 @@ Hook up your levers and knobs!
 ------------------------------
 All (but one) of these patches have all eight of Surge's <a href="https://surge-synthesizer.github.io/manual/#assignable-controllers">Assignable Controllers</a> hooked up.  If you have enough sliders and/or knobs, hook them up to Surge by right-clicking on each of the Assignable Controllers and choosing "learn controller" then wiggling your control:
 
-<p style="text-align:center;"><img src="AssignableControllers.png" width="375"  alt="Assignable Controllers" title="Assignable Controllers"/></p>
+<p style="text-align:center;"><img src="art/AssignableControllers.png" width="375"  alt="Assignable Controllers" title="Assignable Controllers"/></p>
 
 If you do not have a MIDI controller you can use your mouse to mousenipulate the Assignable Controllers.
 
 Please do not neglect your mod wheel!
-<p style="text-align:center;"><img src="ModWheel.png" width="186" height="42"  alt="ModWheel" title="Modulation Wheeleration"/></p>
+<p style="text-align:center;"><img src="art/ModWheel.png" width="186" height="42"  alt="ModWheel" title="Modulation Wheeleration"/></p>
 
 I like velocity sensitivity and I hope you do too.
 
 Tactar
 ------
 **Tactar** is a sitar-like sound.  [It sounds like this](happen.mp3).
-<p style="text-align:left;"><img src="Tactar.png" width="477" height="69" alt="Tactar" title="Tactar"/></p>
+<p style="text-align:left;"><img src="art/Tactar.png" width="477" height="69" alt="Tactar" title="Tactar"/></p>
 
 |||
 |-|-|
@@ -36,13 +36,13 @@ Tactar
 Talienmachi
 --
 I was outside and heard a thump.  Turning around, I saw what was obviously an alien machine from outer space; I took it inside.  It had exactly eight knobs.  I was able to model its sounds and tried to translate what the labels near the knobs seemed to imply.  Then it evaporated, leaving a used motor oil scent.
-<p style="text-align:left;"><img src="Talien.png" width="477" height="69" alt="Talienmachi" title="Talienmachi"/></p>
+<p style="text-align:left;"><img src="art/Talien.png" width="477" height="69" alt="Talienmachi" title="Talienmachi"/></p>
 
 Tarinet
 --
 **Tarinet** takes the lead vocal in [Color My Surge](Tarinet.mp3).
 Maybe it's more of a bass clarinet.
-<p style="text-align:left;"><img src="Tarinet.png" width="477" height="69" alt="Tarinet" title="Tarinet"/></p>
+<p style="text-align:left;"><img src="art/Tarinet.png" width="477" height="69" alt="Tarinet" title="Tarinet"/></p>
 
 |||
 |-|-|
@@ -60,7 +60,7 @@ Maybe it's more of a bass clarinet.
 Tawlk
 ---
 **Tawlk** If a bell tried to talk...
-<p style="text-align:left;"><img src="Tawlk.png" width="477" height="69" alt="Tawlk" title="Tawlk"/></p>
+<p style="text-align:left;"><img src="art/Tawlk.png" width="477" height="69" alt="Tawlk" title="Tawlk"/></p>
 
 |||
 |-|-|
@@ -87,7 +87,7 @@ by [Surge's scenes!](https://surge-synthesizer.github.io/manual/#the-scene-conce
 It is the "Best of Both Brass" because of its two sides.
 
 It handles all brass in [Surgerstition](Superstition.mp3).
-<p style="text-align:left;"><img src="BestBrass.png" width="477" height="69" alt="BestBrass" title="Best of Both Brass"/></p>
+<p style="text-align:left;"><img src="art/BestBrass.png" width="477" height="69" alt="BestBrass" title="Best of Both Brass"/></p>
 
 |||
 |-|-|
@@ -104,7 +104,7 @@ It handles all brass in [Surgerstition](Superstition.mp3).
 Tchime
 ---
 Reminiscent of an [FM doorbell chime](Tchime.mp3), but useful for much else besides!
-<p style="text-align:left;"><img src="Tchime.png" width="477" height="69" alt="Tchime" title="Tchime"/></p>
+<p style="text-align:left;"><img src="art/Tchime.png" width="477" height="69" alt="Tchime" title="Tchime"/></p>
 
 |||
 |-|-|
@@ -123,7 +123,7 @@ Tefbelmo
 ---
 More [FM bell sweetness](Tefbelmo.mp3), the knobs can make it different, you gotta twist 'em!
 
-<p style="text-align:left;"><img src="Tefbelmo.png" width="477" height="69" alt="Tefbelmo" title="Tefbelmo"/></p>
+<p style="text-align:left;"><img src="art/Tefbelmo.png" width="477" height="69" alt="Tefbelmo" title="Tefbelmo"/></p>
 
 |||
 |-|-|
@@ -140,7 +140,7 @@ More [FM bell sweetness](Tefbelmo.mp3), the knobs can make it different, you got
 Tefempino
 ---
 An FM piano does it for [Surgerstition](Superstition.mp3).
-<p style="text-align:left;"><img src="Tefempino.png" width="477" height="69" alt="Tefempino" title="Tefempino"/></p>
+<p style="text-align:left;"><img src="art/Tefempino.png" width="477" height="69" alt="Tefempino" title="Tefempino"/></p>
 
 |||
 |-|-|
@@ -158,7 +158,7 @@ I am sorry, I overlooked the mod wheel.  It does nothing.  This will be rectifie
 Temutu
 ---
 Kinda fonky.  In case you meet a [chameleon man](Temutu.mp3).
-<p style="text-align:left;"><img src="Temutu.png" width="477" height="69" alt="Temutu" title="Temutu"/></p>
+<p style="text-align:left;"><img src="art/Temutu.png" width="477" height="69" alt="Temutu" title="Temutu"/></p>
 
 |||
 |-|-|
@@ -176,7 +176,7 @@ Texedbaz
 ---
 If someone leaves the band and you must [cover the part](Texedbaz.mp3).
 It's a reconstruction of a patch for [Dexed](https://asb2m10.github.io/dexed/) and can be twisted to taste (or lack thereof).
-<p style="text-align:left;"><img src="Texedbaz.png" width="477" height="69" alt="Texedbaz" title="Texedbaz"/></p>
+<p style="text-align:left;"><img src="art/Texedbaz.png" width="477" height="69" alt="Texedbaz" title="Texedbaz"/></p>
 
 |||
 |-|-|
@@ -193,7 +193,7 @@ It's a reconstruction of a patch for [Dexed](https://asb2m10.github.io/dexed/) a
 Texedbel
 ---
 Another [Dexed](https://asb2m10.github.io/dexed/) adaptation.  [Much more metallic](Texedbel.mp3) than **Tefbelmo**, maybe more suited to gamelan.  Ever notice, a reference to gamelan always makes you seem musically sophisticated?  You don't even need to know what, or who, it is!
-<p style="text-align:left;"><img src="Texedbel.png" width="477" height="69" alt="Texedbel" title="Texedbel"/></p>
+<p style="text-align:left;"><img src="art/Texedbel.png" width="477" height="69" alt="Texedbel" title="Texedbel"/></p>
 
 The knobs are hooked up to the Amplitude and Filter envelope generators.
 In this FM patch, the Filter EG drives the FM modulator amounts (which changes timbre).
@@ -202,7 +202,7 @@ Set long Amplitude Attack for glass armonica sounds.  You know what to do.
 Thindo
 ---
 A very [**sync**ere sound](Thindo.mp3), achieved with wavetable oscillators.
-<p style="text-align:left;"><img src="Thindo.png" width="477" height="69" alt="Thindo" title="Thindo"/></p>
+<p style="text-align:left;"><img src="art/Thindo.png" width="477" height="69" alt="Thindo" title="Thindo"/></p>
 
 |||
 |-|-|
@@ -219,7 +219,7 @@ A very [**sync**ere sound](Thindo.mp3), achieved with wavetable oscillators.
 Tokoto
 ---
 A koto that can be a lot of other things, some of them good.  [It makes this sound](Tokoto.mp3).
-<p style="text-align:left;"><img src="Tokoto.png" width="477" height="69" alt="Tokoto" title="Tokoto"/></p>
+<p style="text-align:left;"><img src="art/Tokoto.png" width="477" height="69" alt="Tokoto" title="Tokoto"/></p>
 
 |||
 |-|-|
@@ -236,7 +236,7 @@ A koto that can be a lot of other things, some of them good.  [It makes this sou
 Toneoscstryng
 ---
 A one-oscillator [string sound](Toneoscstryng.mp3).
-<p style="text-align:left;"><img src="Toneoscstryng.png" width="477" height="69" alt="Toneoscstryng" title="Toneoscstryng"/></p>
+<p style="text-align:left;"><img src="art/Toneoscstryng.png" width="477" height="69" alt="Toneoscstryng" title="Toneoscstryng"/></p>
 
 |||
 |-|-|
@@ -258,13 +258,13 @@ Torganiz
 ---
 Three organ studies.  This is [**Torganiz**](Torganiz.mp3):
 
-<p style="text-align:left;"><a href="http://www.youtube.com/watch?v=kuTL-yZnugw" title="Little Fugue for Church Organ"><img src="http://img.youtube.com/vi/kuTL-yZnugw/0.jpg" alt="Bach" title="" width="96" height="54" /></a></p>
+<p style="text-align:left;"><a href="http://www.youtube.com/watch?v=kuTL-yZnugw" title="Little Fugue for Church Organ"><img src="art/http://img.youtube.com/vi/kuTL-yZnugw/0.jpg" alt="Bach" title="" width="96" height="54" /></a></p>
 
 They differ only in the octave assignments of WT Oscs 2 & 3.
 **Torganix** has the Oscs in 1:2:3 tuning.
 **Torganiy** moves Oscs 2 & 3 up one octave, for 1:4:6 kinda-pipe organy sound.
 **Torganiz** moves Oscs 2 & 3 up two octaves, for 1:8:12 epic pipey sound.
-<p style="text-align:left;"><img src="Torganix.png" width="477" height="69" alt="Torganix" title="Torganix"/></p>
+<p style="text-align:left;"><img src="art/Torganix.png" width="477" height="69" alt="Torganix" title="Torganix"/></p>
 
 |||
 |-|-|
@@ -281,7 +281,7 @@ They differ only in the octave assignments of WT Oscs 2 & 3.
 Trawfm
 ---
 An FM3 oscillator laid bare to your fingertips.  Explore the worlds of FM synthesis and save off your interesting creations.  Enjoy!
-<p style="text-align:left;"><img src="Trawfm.png" width="477" height="69" alt="Trawfm" title="Trawfm"/></p>
+<p style="text-align:left;"><img src="art/Trawfm.png" width="477" height="69" alt="Trawfm" title="Trawfm"/></p>
 
 |||
 |-|-|
@@ -298,7 +298,7 @@ An FM3 oscillator laid bare to your fingertips.  Explore the worlds of FM synthe
 Tscreeminhel
 ---
 Scream in hell.  A self-documenting patch: just this one bad sound try mod wheel.
-<p style="text-align:left;"><img src="Tscreeminhel.png" width="477" height="69" alt="Tscreeminhel" title="Tscreeminhel"/></p>
+<p style="text-align:left;"><img src="art/Tscreeminhel.png" width="477" height="69" alt="Tscreeminhel" title="Tscreeminhel"/></p>
 
 |||
 |-|-|
@@ -307,7 +307,7 @@ Scream in hell.  A self-documenting patch: just this one bad sound try mod wheel
 Tuub
 ---
 Like, tubular, man.  [Bliss out](Tuub.mp3) and mind the volume.
-<p style="text-align:left;"><img src="Tuub.png" width="477" height="69" alt="Tuub" title="Tuub"/></p>
+<p style="text-align:left;"><img src="art/Tuub.png" width="477" height="69" alt="Tuub" title="Tuub"/></p>
 
 |||
 |-|-|
@@ -324,7 +324,7 @@ Like, tubular, man.  [Bliss out](Tuub.mp3) and mind the volume.
 Tuzz
 ---
 An [agressive buzz sound](Tuzz.mp3).
-<p style="text-align:left;"><img src="Tuzz.png" width="477" height="69" alt="Tuzz" title="Tuzz"/></p>
+<p style="text-align:left;"><img src="art/Tuzz.png" width="477" height="69" alt="Tuzz" title="Tuzz"/></p>
 
 |||
 |-|-|
