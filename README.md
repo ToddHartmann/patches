@@ -18,7 +18,7 @@ I like velocity sensitivity and I hope you do too.
 
 Tactar
 ------
-[**Tactar**](Tactar.fxp) is a sitar-like sound.  [**It sounds like this**](sound/happen.mp3).
+[**Tactar**](Tactar.fxp) is a sitar-like sound.  [**It sounds like this**](sound/happen.mp3?raw=true).
 <p style="text-align:left;"><img src="art/Tactar.png" width="477" height="69" alt="Tactar" title="Tactar"/></p>
 
 |||
