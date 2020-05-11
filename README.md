@@ -18,7 +18,7 @@ I like velocity sensitivity and I hope you do too.
 
 Tactar
 ------
-[**Tactar**](fxp/Tactar.fxp) is a sitar-like sound.  [**It sounds like this**](sound/happen.mp3?raw=true).
+[**Tactar**](fxp/Tactar.fxp?raw=true) is a sitar-like sound.  [**It sounds like this**](sound/happen.mp3?raw=true).
 <p style="text-align:left;"><img src="art/Tactar.png" width="477" height="69" alt="Tactar" title="Tactar"/></p>
 
 |||
@@ -35,13 +35,13 @@ Tactar
 
 Talienmachi
 --
-[**Talienmachi**](fxp/Talienmachi.fxp) -
+[**Talienmachi**](fxp/Talienmachi.fxp?raw=true) -
 I was outside and heard a thump.  Turning around, I saw what was obviously an alien machine from outer space; I took it inside.  It had exactly eight knobs.  I was able to model its sounds and tried to translate what the labels near the knobs seemed to imply.  Then it evaporated, leaving a used motor oil scent.
 <p style="text-align:left;"><img src="art/Talien.png" width="477" height="69" alt="Talienmachi" title="Talienmachi"/></p>
 
 Tarinet
 --
-[**Tarinet**](fxp/Tarinet.fxp) is an FM clarinet.  [**It sounds like this**](sound/Tarinet.mp3?raw=true).
+[**Tarinet**](fxp/Tarinet.fxp?raw=true) is an FM clarinet.  [**It sounds like this**](sound/Tarinet.mp3?raw=true).
 Maybe it's more of a bass clarinet.
 <p style="text-align:left;"><img src="art/Tarinet.png" width="477" height="69" alt="Tarinet" title="Tarinet"/></p>
 
@@ -60,7 +60,7 @@ Maybe it's more of a bass clarinet.
 
 Tawlk
 ---
-[**Tawlk**](fxp/Tawlk.fxp) - If a bell tried to talk it might [**sound like this**](sound/Tawlk.mp3?raw=true).
+[**Tawlk**](fxp/Tawlk.fxp?raw=true) - If a bell tried to talk it might [**sound like this**](sound/Tawlk.mp3?raw=true).
 <p style="text-align:left;"><img src="art/Tawlk.png" width="477" height="69" alt="Tawlk" title="Tawlk"/></p>
 
 |||
@@ -77,13 +77,13 @@ Tawlk
 
 Tawlkpyiana
 ---
-[**Tawlkpyiana**](fxp/Tawlkpyiana.fxp) - [**Sounds like this**](sound/Tawlkpyiana.mp3?raw=true).
+[**Tawlkpyiana**](fxp/Tawlkpyiana.fxp?raw=true) - [**Sounds like this**](sound/Tawlkpyiana.mp3?raw=true).
 It's almost exactly the same as **Tawlk**,
 but the bell is much brighter because it skips F1.  Has the same parameters.
 
 Tbestbrofbraz
 ---
-[**Tbestbrofbraz**](fxp/Tbestbrofbraz.fxp) - [**Sounds like this**](sound/Tbestbrofbraz.mp3?raw=true), covering all brass and Moog bass (think "tuba").
+[**Tbestbrofbraz**](fxp/Tbestbrofbraz.fxp?raw=true) - [**Sounds like this**](sound/Tbestbrofbraz.mp3?raw=true), covering all brass and Moog bass (think "tuba").
 I approached brass from the FM side.  I approached brass from the subtractive side.
 Each side had what the other lacked, a problem easily solved
 by [Surge's scenes](https://surge-synthesizer.github.io/manual/#the-scene-concept)!
@@ -104,7 +104,7 @@ It is the "Best of Both Brass" because of its two sides.
 
 Tchime
 ---
-[**Tchime**](fxp/Tchime.fxp) - [**Sounds like an FM doorbell chime**](sound/Tchime.mp3?raw=true), but useful for much else besides!
+[**Tchime**](fxp/Tchime.fxp?raw=true) - [**Sounds like an FM doorbell chime**](sound/Tchime.mp3?raw=true), but useful for much else besides!
 <p style="text-align:left;"><img src="art/Tchime.png" width="477" height="69" alt="Tchime" title="Tchime"/></p>
 
 |||
@@ -122,7 +122,7 @@ Tchime
 
 Tefbelmo
 ---
-[**Tefbelmo**](fxp/Tefbelmo.fxp) - [**Sounds like FM bell sweetness**](sound/Tefbelmo.mp3?raw=true), the knobs can make it different, you gotta twist 'em!
+[**Tefbelmo**](fxp/Tefbelmo.fxp?raw=true) - [**Sounds like FM bell sweetness**](sound/Tefbelmo.mp3?raw=true), the knobs can make it different, you gotta twist 'em!
 
 <p style="text-align:left;"><img src="art/Tefbelmo.png" width="477" height="69" alt="Tefbelmo" title="Tefbelmo"/></p>
 
@@ -140,7 +140,7 @@ Tefbelmo
 
 Tefempino
 ---
-[**Tefempino**](fxp/Tefempino.fxp) - An FM piano that [**sounds like this**](sound/Tefempino.mp3?raw=true), handling all Rhodes/Wurly parts.
+[**Tefempino**](fxp/Tefempino.fxp?raw=true) - An FM piano that [**sounds like this**](sound/Tefempino.mp3?raw=true), handling all Rhodes/Wurly parts.
 <p style="text-align:left;"><img src="art/Tefempino.png" width="477" height="69" alt="Tefempino" title="Tefempino"/></p>
 
 |||
@@ -158,7 +158,7 @@ I am sorry, I overlooked the mod wheel.  It does nothing.  This will be rectifie
 
 Temutu
 ---
-[**Temutu**](fxp/Temutu.fxp) - [**Sounds like this**](sound/Temutu.mp3?raw=true), it's kinda fonky in case you meet a chameleon.
+[**Temutu**](fxp/Temutu.fxp?raw=true) - [**Sounds like this**](sound/Temutu.mp3?raw=true), it's kinda fonky in case you meet a chameleon.
 <p style="text-align:left;"><img src="art/Temutu.png" width="477" height="69" alt="Temutu" title="Temutu"/></p>
 
 |||
@@ -175,7 +175,7 @@ Temutu
 
 Texedbaz
 ---
-[**Texedbaz**](fxp/Texedbaz.fxp) is a synth bass that [**sounds like this**](sound/Texedbaz.mp3?raw=true).
+[**Texedbaz**](fxp/Texedbaz.fxp?raw=true) is a synth bass that [**sounds like this**](sound/Texedbaz.mp3?raw=true).
 It's a reconstruction of a patch for a DX7 or [Dexed](https://asb2m10.github.io/dexed/) and can be twisted to taste (or lack thereof).
 <p style="text-align:left;"><img src="art/Texedbaz.png" width="477" height="69" alt="Texedbaz" title="Texedbaz"/></p>
 
@@ -193,7 +193,7 @@ It's a reconstruction of a patch for a DX7 or [Dexed](https://asb2m10.github.io/
 
 Texedbel
 ---
-[**Texedbel**](fxp/Texedbel.fxp) is another DX7/[Dexed](https://asb2m10.github.io/dexed/) adaptation
+[**Texedbel**](fxp/Texedbel.fxp?raw=true) is another DX7/[Dexed](https://asb2m10.github.io/dexed/) adaptation
 that [**sounds like this**](sound/Texedbel.mp3?raw=true).
 Much more metallic than **Tefbelmo**, maybe more suited to gamelan.  Ever notice, a reference to gamelan always makes you seem musically sophisticated?  You don't even need to know what, or who, it is!
 <p style="text-align:left;"><img src="art/Texedbel.png" width="477" height="69" alt="Texedbel" title="Texedbel"/></p>
@@ -204,7 +204,7 @@ Set long Amplitude Attack for glass armonica sounds.  You know what to do.
 
 Thindo
 ---
-[**Thindo**](fxp/Thindo.fxp) - Makes a very [**syncere sound**](sound/Thindo.mp3?raw=true), achieved with wavetable oscillators.
+[**Thindo**](fxp/Thindo.fxp?raw=true) - Makes a very [**syncere sound**](sound/Thindo.mp3?raw=true), achieved with wavetable oscillators.
 <p style="text-align:left;"><img src="art/Thindo.png" width="477" height="69" alt="Thindo" title="Thindo"/></p>
 
 |||
@@ -221,7 +221,7 @@ Thindo
 
 Tokoto
 ---
-[**Tokoto**](fxp/Tokoto.fxp) - [**Sounds like a koto**](sound/Tokoto.mp3?raw=true), and can be a lot of other things, some of them good.
+[**Tokoto**](fxp/Tokoto.fxp?raw=true) - [**Sounds like a koto**](sound/Tokoto.mp3?raw=true), and can be a lot of other things, some of them good.
 <p style="text-align:left;"><img src="art/Tokoto.png" width="477" height="69" alt="Tokoto" title="Tokoto"/></p>
 
 |||
@@ -238,7 +238,7 @@ Tokoto
 
 Toneoscstryng
 ---
-[**Toneoscstryng**](fxp/Toneoscstryng.fxp) is a one-oscillator [**string sound**](sound/Toneoscstryng.mp3?raw=true).
+[**Toneoscstryng**](fxp/Toneoscstryng.fxp?raw=true) is a one-oscillator [**string sound**](sound/Toneoscstryng.mp3?raw=true).
 <p style="text-align:left;"><img src="art/Toneoscstryng.png" width="477" height="69" alt="Toneoscstryng" title="Toneoscstryng"/></p>
 
 |||
@@ -255,7 +255,7 @@ Toneoscstryng
 
 Torganix, Torganiy, Torganiz
 ---
-[**Torganix**](fxp/Torganix.fxp), [**Torganiy**](fxp/Torganiy.fxp), and [**Torganiz**](fxp/Torganiz.fxp)
+[**Torganix**](fxp/Torganix.fxp?raw=true), [**Torganiy**](fxp/Torganiy.fxp?raw=true), and [**Torganiz**](fxp/Torganiz.fxp?raw=true)
 are organ sounds.  **Torganiz** makes [**sounds like this**](sound/Torganiz.mp3?raw=true):
 
 <p style="text-align:left;"><a href="http://www.youtube.com/watch?v=kuTL-yZnugw" title="Little Fugue for Church Organ"><img src="art/http://img.youtube.com/vi/kuTL-yZnugw/0.jpg" alt="Bach" title="" width="96" height="54" /></a></p>
@@ -280,7 +280,7 @@ They differ only in the octave assignments of WT Oscs 2 & 3.
 
 Trawfm
 ---
-[**Trawfm**](fxp/Trawfm.fxp) is an FM3 oscillator laid bare to your fingertips.  Explore the worlds of FM synthesis and save off your interesting creations.  Enjoy!
+[**Trawfm**](fxp/Trawfm.fxp?raw=true) is an FM3 oscillator laid bare to your fingertips.  Explore the worlds of FM synthesis and save off your interesting creations.  Enjoy!
 <p style="text-align:left;"><img src="art/Trawfm.png" width="477" height="69" alt="Trawfm" title="Trawfm"/></p>
 
 |||
@@ -297,7 +297,7 @@ Trawfm
 
 Tscreeminhel
 ---
-[**Tscreeminhel**](fxp/Tscreeminhel.fxp) is a scream in hell.  A self-documenting patch: just this one bad sound try mod wheel.
+[**Tscreeminhel**](fxp/Tscreeminhel.fxp?raw=true) is a scream in hell.  A self-documenting patch: just this one bad sound try mod wheel.
 <p style="text-align:left;"><img src="art/Tscreeminhel.png" width="477" height="69" alt="Tscreeminhel" title="Tscreeminhel"/></p>
 
 |||
@@ -306,7 +306,7 @@ Tscreeminhel
 
 Tuub
 ---
-[**Tuub**](fxp/Tuub.fxp), is like, tubular, totally.  [Bliss out](sound/Tuub.mp3?raw=true).
+[**Tuub**](fxp/Tuub.fxp?raw=true), is like, tubular, totally.  [Bliss out](sound/Tuub.mp3?raw=true).
 <p style="text-align:left;"><img src="art/Tuub.png" width="477" height="69" alt="Tuub" title="Tuub"/></p>
 
 |||
@@ -323,7 +323,7 @@ Tuub
 
 Tuzz
 ---
-[**Tuzz**](fxp/Tuzz.fxp) is an [agressive buzz sound](sound/Tuzz.mp3?raw=true).
+[**Tuzz**](fxp/Tuzz.fxp?raw=true) is an [agressive buzz sound](sound/Tuzz.mp3?raw=true).
 <p style="text-align:left;"><img src="art/Tuzz.png" width="477" height="69" alt="Tuzz" title="Tuzz"/></p>
 
 |||
