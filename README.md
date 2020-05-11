@@ -255,7 +255,8 @@ Toneoscstryng
 
 Torganix, Torganiy, Torganiz
 ---
-Three organ studies.  **Torganiz** makes [**sounds like this**](sound/Torganiz.mp3):
+[**Torganix**](Torganix.fxp), [**Torganiy**](Torganiy.fxp), and [**Torganiz**](Torganiz.fxp)
+are organ sounds.  **Torganiz** makes [**sounds like this**](sound/Torganiz.mp3):
 
 <p style="text-align:left;"><a href="http://www.youtube.com/watch?v=kuTL-yZnugw" title="Little Fugue for Church Organ"><img src="art/http://img.youtube.com/vi/kuTL-yZnugw/0.jpg" alt="Bach" title="" width="96" height="54" /></a></p>
 
