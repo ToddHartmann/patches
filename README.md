@@ -153,8 +153,7 @@ Tefempino
 |**Bark**|Maybe like a bite|
 |**Bright**|Get sunglasses|
 |**Portamento**|Silliness|
-
-I am sorry, I overlooked the mod wheel.  It does nothing.  This will be rectified soon.
+|**Mod Wheel**|Has its own LFO for its own vibrato|
 
 Temutu
 ---
